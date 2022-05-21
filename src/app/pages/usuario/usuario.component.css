@@ -1,0 +1,18 @@
+button:hover{
+    background: rgb(100, 100, 255);
+    border: rgb(100, 100, 255);
+  }
+
+.text-center {
+  padding: 20px
+}
+
+.container{
+  padding-top: 30px;
+}
+
+@media (max-width: 768px) {
+  .container{
+    padding-top: 70px;
+  }
+}
